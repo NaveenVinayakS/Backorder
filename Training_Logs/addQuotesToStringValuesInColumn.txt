@@ -1,0 +1,2 @@
+2021-08-21/13:07:22	 	file_Training_batchs.csv : Quotes added successfully !!
+2021-08-21/13:11:34	 	file_Training_batchs.csv : Quotes added successfully !!

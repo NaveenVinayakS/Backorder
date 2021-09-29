@@ -1,0 +1,60 @@
+2021-08-17/23:31:29	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:31:30	 	Good_Raw folder is deleted successfully
+2021-08-17/23:31:30	 	Bad files moved to Bad_Archive
+2021-08-17/23:31:30	 	Bad files from Bad_Raw moved to Bad_Archive
+2021-08-17/23:32:36	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:32:36	 	Good_Raw folder is deleted successfully
+2021-08-17/23:32:36	 	Bad files moved to Bad_Archive
+2021-08-17/23:32:36	 	Bad files from Bad_Raw moved to Bad_Archive
+2021-08-17/23:33:27	 	Good_Raw folder is deleted successfully
+2021-08-17/23:33:27	 	Bad files moved to Bad_Archive
+2021-08-17/23:33:27	 	Bad files from Bad_Raw moved to Bad_Archive
+2021-08-17/23:35:23	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:35:23	 	Good_Raw folder is deleted successfully
+2021-08-17/23:35:23	 	Bad files moved to Bad_Archive
+2021-08-17/23:35:23	 	Bad files from Bad_Raw moved to Bad_Archive
+2021-08-17/23:35:36	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:35:37	 	Good_Raw folder is deleted successfully
+2021-08-17/23:35:37	 	Bad files moved to Bad_Archive
+2021-08-17/23:35:37	 	Bad files from Bad_Raw moved to Bad_Archive
+2021-08-17/23:36:31	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:36:50	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:36:50	 	Good_Raw folder is deleted successfully
+2021-08-17/23:37:03	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:37:03	 	Good_Raw folder is deleted successfully
+2021-08-17/23:38:37	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:38:37	 	Good_Raw folder is deleted successfully
+2021-08-17/23:39:19	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:39:19	 	Good_Raw folder is deleted successfully
+2021-08-17/23:40:18	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:40:18	 	Good_Raw folder is deleted successfully
+2021-08-17/23:41:07	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:41:07	 	Good_Raw folder is deleted successfully
+2021-08-17/23:43:31	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:43:31	 	Good_Raw folder is deleted successfully
+2021-08-17/23:44:02	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:44:02	 	Good_Raw folder is deleted successfully
+2021-08-17/23:44:21	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:44:21	 	Good_Raw folder is deleted successfully
+2021-08-17/23:44:30	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:44:30	 	Good_Raw folder is deleted successfully
+2021-08-17/23:44:50	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:44:50	 	Good_Raw folder is deleted successfully
+2021-08-17/23:45:26	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:45:26	 	Good_Raw folder is deleted successfully
+2021-08-17/23:45:49	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:45:49	 	Good_Raw folder is deleted successfully
+2021-08-17/23:45:59	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:45:59	 	Good_Raw folder is deleted successfully
+2021-08-17/23:46:28	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:46:28	 	Good_Raw folder is deleted successfully
+2021-08-17/23:47:55	 	Bad_Raw folder is deleted successfully
+2021-08-17/23:47:55	 	Good_Raw folder is deleted successfully
+2021-08-18/22:33:09	 	Bad_Raw folder is deleted successfully
+2021-08-18/22:33:09	 	Good_Raw folder is deleted successfully
+2021-08-19/22:18:30	 	Bad_Raw folder is deleted successfully
+2021-08-19/22:18:30	 	Good_Raw folder is deleted successfully
+2021-08-20/00:58:39	 	Bad_Raw folder is deleted successfully
+2021-08-20/00:58:39	 	Good_Raw folder is deleted successfully
+2021-08-20/01:12:18	 	Bad_Raw folder is deleted successfully
+2021-08-20/01:12:18	 	Good_Raw folder is deleted successfully

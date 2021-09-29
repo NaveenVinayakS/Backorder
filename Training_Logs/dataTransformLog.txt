@@ -1,0 +1,6 @@
+2021-08-21/12:57:25	 	 file_Training_batchs.csv: File Transformed successfully!!
+2021-08-21/12:59:10	 	 file_Training_batchs.csv: File Transformed successfully!!
+2021-08-21/13:01:04	 	 file_Training_batchs.csv: File Transformed successfully!!
+2021-08-21/13:02:38	 	 file_Training_batchs.csv: File Transformed successfully!!
+2021-08-21/13:06:43	 	 file_Training_batchs.csv: File Transformed successfully!!
+2021-08-21/13:10:23	 	 file_Training_batchs.csv: File Transformed successfully!!

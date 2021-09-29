@@ -1,0 +1,31 @@
+2021-08-17/23:31:29	 	Valid File name!! File moved to GoodRaw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:32:36	 	Valid File name!! File moved to GoodRaw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:33:27	 	Valid File name!! File moved to GoodRaw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:35:23	 	Valid File name!! File moved to GoodRaw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:35:36	 	Valid File name!! File moved to GoodRaw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:36:31	 	Valid File name!! File moved to GoodRaw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:36:50	 	Valid File name!! File moved to GoodRaw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:37:03	 	Valid File name!! File moved to GoodRaw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:38:38	 	Valid File name!! File moved to GoodRaw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:39:19	 	Invalid File Name!! File moved to Bad Raw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:40:18	 	Error occured while validating FileName list index out of range
+2021-08-17/23:41:07	 	Error occured while validating FileName list index out of range
+2021-08-17/23:43:31	 	Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/file_Training_batchs.csv'
+2021-08-17/23:44:02	 	Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/file_Training_batchs.csv'
+2021-08-17/23:44:21	 	Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/file_Training_batchs.csv'
+2021-08-17/23:44:30	 	Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/file_Training_batchs.csv'
+2021-08-17/23:44:50	 	Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/file_Training_batchs.csv'
+2021-08-17/23:45:26	 	Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/file_Training_batches.csv'
+2021-08-17/23:45:49	 	Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/file_Training_batches.csv'
+2021-08-17/23:45:59	 	Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/file_Training_batches.csv'
+2021-08-17/23:46:28	 	Error occured while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/file_Training_batchs.csv'
+2021-08-17/23:47:55	 	Invalid File Name!! File moved to Bad Raw Folder :: backOrder_08012020_120000.csv
+2021-08-17/23:47:55	 	Valid File name!! File moved to GoodRaw Folder :: file_Training_batchs.csv
+2021-08-18/22:33:09	 	Invalid File Name!! File moved to Bad Raw Folder :: backOrder_08012020_120000.csv
+2021-08-18/22:33:09	 	Valid File name!! File moved to GoodRaw Folder :: file_Training_batchs.csv
+2021-08-19/22:18:30	 	Invalid File Name!! File moved to Bad Raw Folder :: backOrder_08012020_120000.csv
+2021-08-19/22:18:30	 	Valid File name!! File moved to GoodRaw Folder :: file_Training_batchs.csv
+2021-08-20/00:58:39	 	Invalid File Name!! File moved to Bad Raw Folder :: backOrder_08012020_120000.csv
+2021-08-20/00:58:39	 	Valid File name!! File moved to GoodRaw Folder :: file_Training_batchs.csv
+2021-08-20/01:12:18	 	Invalid File Name!! File moved to Bad Raw Folder :: backOrder_08012020_120000.csv
+2021-08-20/01:12:18	 	Valid File name!! File moved to GoodRaw Folder :: file_Training_batchs.csv
