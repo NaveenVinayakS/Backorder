@@ -1,0 +1,246 @@
+2021-08-24/00:14:54	 	Start of Prediction
+2021-08-24/00:14:58	 	Entered the get_data method of the Data_Getter class
+2021-08-24/00:15:08	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-24/00:15:28	 	Entered the remove_columns method of the Preprocessor class
+2021-08-24/00:16:00	 	Error occured in remove_columns Exception message:  "['Index_Product'] not found in axis"
+2021-08-24/00:16:34	 	Error occured while running the prediction!! Error:: 'NoneType' object is not subscriptable
+2021-08-24/00:53:43	 	Start of Prediction
+2021-08-24/00:53:44	 	Entered the get_data method of the Data_Getter class
+2021-08-24/00:53:45	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-24/00:53:49	 	Entering the scaled numerical column
+2021-08-24/00:53:50	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-24/00:53:53	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-24/00:53:56	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-24/00:53:57	 	Entered the load_model method of the File_Operation class
+2021-08-24/00:53:58	 	Model File loaded
+2021-08-24/00:54:23	 	End of Prediction
+2021-08-25/01:21:06	 	Start of Prediction
+2021-08-25/01:21:07	 	Entered the get_data method of the Data_Getter class
+2021-08-25/01:21:08	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-25/01:21:12	 	Entering the scaled numerical column
+2021-08-25/01:21:16	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-25/01:21:47	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-25/01:22:04	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-25/01:22:14	 	Entered the load_model method of the File_Operation class
+2021-08-25/01:22:21	 	Model File loaded
+2021-08-25/01:22:31	 	End of Prediction
+2021-08-25/16:00:47	 	Start of Prediction
+2021-08-25/16:00:47	 	Entered the get_data method of the Data_Getter class
+2021-08-25/16:00:48	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-25/16:00:48	 	Entering the scaled numerical column
+2021-08-25/16:00:48	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-25/16:00:48	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-25/16:00:48	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-25/16:00:48	 	Entered the load_model method of the File_Operation class
+2021-08-25/16:00:49	 	Model File loaded
+2021-08-25/16:00:49	 	Error occured while running the prediction!! Error:: [Errno 13] Permission denied: 'Prediction_Output_File/Predictions_final.csv'
+2021-08-26/08:23:59	 	Start of Prediction
+2021-08-26/08:23:59	 	Entered the get_data method of the Data_Getter class
+2021-08-26/08:23:59	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-26/08:23:59	 	Entering the scaled numerical column
+2021-08-26/08:24:00	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-26/08:24:00	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-26/08:24:00	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-26/08:24:00	 	Entered the load_model method of the File_Operation class
+2021-08-26/08:24:00	 	Model File loaded
+2021-08-26/08:24:00	 	End of Prediction
+2021-08-26/10:49:42	 	Start of Prediction
+2021-08-26/10:49:42	 	Entered the get_data method of the Data_Getter class
+2021-08-26/10:49:42	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-26/10:49:42	 	Entering the scaled numerical column
+2021-08-26/10:49:42	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-26/10:49:43	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-26/10:49:43	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-26/10:49:43	 	Entered the load_model method of the File_Operation class
+2021-08-26/10:49:43	 	Model File loaded
+2021-08-26/10:49:44	 	End of Prediction
+2021-08-26/10:51:14	 	Start of Prediction
+2021-08-26/10:51:14	 	Entered the get_data method of the Data_Getter class
+2021-08-26/10:51:14	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-26/10:51:15	 	Entering the scaled numerical column
+2021-08-26/10:51:15	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-26/10:51:15	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-26/10:51:15	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-26/10:51:15	 	Entered the load_model method of the File_Operation class
+2021-08-26/10:51:15	 	Model File loaded
+2021-08-26/10:51:16	 	End of Prediction
+2021-08-26/10:52:58	 	Start of Prediction
+2021-08-26/10:52:58	 	Entered the get_data method of the Data_Getter class
+2021-08-26/10:52:59	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-26/10:53:01	 	Entering the scaled numerical column
+2021-08-26/10:53:02	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-26/10:53:04	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-26/10:53:04	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-26/10:53:04	 	Entered the load_model method of the File_Operation class
+2021-08-26/10:53:04	 	Model File loaded
+2021-08-26/10:53:07	 	End of Prediction
+2021-08-26/14:45:39	 	Start of Prediction
+2021-08-26/14:45:39	 	Entered the get_data method of the Data_Getter class
+2021-08-26/14:45:39	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-26/14:45:39	 	Entering the scaled numerical column
+2021-08-26/14:45:39	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-26/14:45:40	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-26/14:45:40	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-26/14:45:40	 	Entered the load_model method of the File_Operation class
+2021-08-26/14:45:40	 	Model File loaded
+2021-08-26/14:45:40	 	End of Prediction
+2021-08-26/16:33:37	 	Start of Prediction
+2021-08-26/16:33:37	 	Entered the get_data method of the Data_Getter class
+2021-08-26/16:33:37	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-26/16:33:37	 	Entering the scaled numerical column
+2021-08-26/16:33:37	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-26/16:33:38	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-26/16:33:38	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-26/16:33:38	 	Entered the load_model method of the File_Operation class
+2021-08-26/16:33:38	 	Model File loaded
+2021-08-26/16:33:39	 	End of Prediction
+2021-08-26/16:33:58	 	Start of Prediction
+2021-08-26/16:33:58	 	Entered the get_data method of the Data_Getter class
+2021-08-26/16:33:58	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-26/16:33:58	 	Entering the scaled numerical column
+2021-08-26/16:33:59	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-26/16:33:59	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-26/16:33:59	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-26/16:33:59	 	Entered the load_model method of the File_Operation class
+2021-08-26/16:33:59	 	Model File loaded
+2021-08-26/16:33:59	 	End of Prediction
+2021-08-28/09:59:34	 	Start of Prediction
+2021-08-28/09:59:34	 	Entered the get_data method of the Data_Getter class
+2021-08-28/09:59:35	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-28/09:59:35	 	Entering the scaled numerical column
+2021-08-28/09:59:35	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-28/09:59:35	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-28/09:59:35	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-28/09:59:35	 	Entered the load_model method of the File_Operation class
+2021-08-28/09:59:35	 	Model File loaded
+2021-08-28/09:59:36	 	End of Prediction
+2021-08-28/10:03:08	 	Start of Prediction
+2021-08-28/10:03:08	 	Entered the get_data method of the Data_Getter class
+2021-08-28/10:03:08	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-28/10:03:08	 	Entering the scaled numerical column
+2021-08-28/10:03:08	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-28/10:03:08	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-28/10:03:08	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-28/10:03:08	 	Entered the load_model method of the File_Operation class
+2021-08-28/10:03:08	 	Model File loaded
+2021-08-28/10:03:09	 	End of Prediction
+2021-08-28/10:05:57	 	Start of Prediction
+2021-08-28/10:05:57	 	Entered the get_data method of the Data_Getter class
+2021-08-28/10:05:57	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-28/10:05:57	 	Entering the scaled numerical column
+2021-08-28/10:05:57	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-28/10:05:57	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-28/10:05:57	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-28/10:05:57	 	Entered the load_model method of the File_Operation class
+2021-08-28/10:05:57	 	Model File loaded
+2021-08-28/10:05:58	 	End of Prediction
+2021-08-28/10:06:51	 	Start of Prediction
+2021-08-28/10:06:51	 	Entered the get_data method of the Data_Getter class
+2021-08-28/10:06:51	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-28/10:06:52	 	Entering the scaled numerical column
+2021-08-28/10:06:52	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-28/10:06:52	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-28/10:06:52	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-28/10:06:52	 	Entered the load_model method of the File_Operation class
+2021-08-28/10:06:52	 	Model File loaded
+2021-08-28/10:06:52	 	End of Prediction
+2021-08-28/10:10:56	 	Start of Prediction
+2021-08-28/10:10:56	 	Entered the get_data method of the Data_Getter class
+2021-08-28/10:10:56	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-08-28/10:10:57	 	Entering the scaled numerical column
+2021-08-28/10:10:57	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-08-28/10:10:57	 	Entered the find_correct_model_file method of the File_Operation class
+2021-08-28/10:10:57	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-08-28/10:10:57	 	Entered the load_model method of the File_Operation class
+2021-08-28/10:10:57	 	Model File loaded
+2021-08-28/10:10:58	 	End of Prediction
+2021-09-16/00:01:02	 	Start of Prediction
+2021-09-16/00:01:02	 	Entered the get_data method of the Data_Getter class
+2021-09-16/00:01:02	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-16/00:01:02	 	Entering the scaled numerical column
+2021-09-16/00:01:02	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-16/00:01:02	 	Entered the find_correct_model_file method of the File_Operation class
+2021-09-16/00:01:02	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-09-16/00:01:02	 	Entered the load_model method of the File_Operation class
+2021-09-16/00:01:03	 	Model File loaded
+2021-09-16/00:01:03	 	End of Prediction
+2021-09-16/00:05:09	 	Start of Prediction
+2021-09-16/00:05:09	 	Entered the get_data method of the Data_Getter class
+2021-09-16/00:05:09	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-16/00:05:09	 	Entering the scaled numerical column
+2021-09-16/00:05:09	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-16/00:05:09	 	Entered the find_correct_model_file method of the File_Operation class
+2021-09-16/00:05:09	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-09-16/00:05:09	 	Entered the load_model method of the File_Operation class
+2021-09-16/00:05:09	 	Model File loaded
+2021-09-16/00:05:10	 	End of Prediction
+2021-09-16/00:06:43	 	Start of Prediction
+2021-09-16/00:06:43	 	Entered the get_data method of the Data_Getter class
+2021-09-16/00:06:43	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-16/00:06:43	 	Entering the scaled numerical column
+2021-09-16/00:06:43	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-16/00:06:43	 	Entered the find_correct_model_file method of the File_Operation class
+2021-09-16/00:06:43	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-09-16/00:06:43	 	Entered the load_model method of the File_Operation class
+2021-09-16/00:06:43	 	Model File loaded
+2021-09-16/00:06:44	 	End of Prediction
+2021-09-16/00:22:29	 	Start of Prediction
+2021-09-16/00:22:29	 	Entered the get_data method of the Data_Getter class
+2021-09-16/00:22:29	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-16/00:22:29	 	Entering the scaled numerical column
+2021-09-16/00:22:29	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-16/00:22:29	 	Entered the find_correct_model_file method of the File_Operation class
+2021-09-16/00:22:29	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-09-16/00:22:29	 	Entered the load_model method of the File_Operation class
+2021-09-16/00:22:30	 	Model File loaded
+2021-09-16/00:22:30	 	End of Prediction
+2021-09-29/20:51:48	 	Start of Prediction
+2021-09-29/20:51:48	 	Entered the get_data method of the Data_Getter class
+2021-09-29/20:51:48	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-29/20:51:49	 	Entering the scaled numerical column
+2021-09-29/20:51:49	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-29/20:51:49	 	Entered the find_correct_model_file method of the File_Operation class
+2021-09-29/20:51:49	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-09-29/20:51:49	 	Entered the load_model method of the File_Operation class
+2021-09-29/20:51:49	 	Model File loaded
+2021-09-29/20:51:50	 	End of Prediction
+2021-09-29/20:53:43	 	Start of Prediction
+2021-09-29/20:53:43	 	Entered the get_data method of the Data_Getter class
+2021-09-29/20:53:43	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-29/20:53:43	 	Entering the scaled numerical column
+2021-09-29/20:53:43	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-29/20:53:43	 	Entered the find_correct_model_file method of the File_Operation class
+2021-09-29/20:53:43	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-09-29/20:53:43	 	Entered the load_model method of the File_Operation class
+2021-09-29/20:53:44	 	Model File loaded
+2021-09-29/20:53:44	 	End of Prediction
+2021-09-29/21:16:05	 	Start of Prediction
+2021-09-29/21:16:05	 	Entered the get_data method of the Data_Getter class
+2021-09-29/21:16:05	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-29/21:16:06	 	Entering the scaled numerical column
+2021-09-29/21:16:06	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-29/21:16:06	 	Entered the find_correct_model_file method of the File_Operation class
+2021-09-29/21:16:06	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-09-29/21:16:06	 	Entered the load_model method of the File_Operation class
+2021-09-29/21:16:06	 	Model File loaded
+2021-09-29/21:16:06	 	End of Prediction
+2021-09-29/21:17:49	 	Start of Prediction
+2021-09-29/21:17:49	 	Entered the get_data method of the Data_Getter class
+2021-09-29/21:17:49	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-29/21:17:49	 	Entering the scaled numerical column
+2021-09-29/21:17:49	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-29/21:17:50	 	Entered the find_correct_model_file method of the File_Operation class
+2021-09-29/21:17:50	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-09-29/21:17:50	 	Entered the load_model method of the File_Operation class
+2021-09-29/21:17:50	 	Model File loaded
+2021-09-29/21:17:50	 	End of Prediction
+2021-09-29/21:28:08	 	Start of Prediction
+2021-09-29/21:28:08	 	Entered the get_data method of the Data_Getter class
+2021-09-29/21:28:08	 	Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-29/21:28:09	 	Entering the scaled numerical column
+2021-09-29/21:28:09	 	scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-29/21:28:09	 	Entered the find_correct_model_file method of the File_Operation class
+2021-09-29/21:28:09	 	Exited the find_correct_model_file method of the Model_Finder class.
+2021-09-29/21:28:09	 	Entered the load_model method of the File_Operation class
+2021-09-29/21:28:09	 	Model File loaded
+2021-09-29/21:28:09	 	End of Prediction

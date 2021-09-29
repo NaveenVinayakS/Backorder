@@ -1,0 +1,25 @@
+2021-08-23/22:13:01	 	Column length validation completed
+2021-08-23/22:13:54	 	Column length validation completed
+2021-08-23/22:15:33	 	Column length validation completed
+2021-08-23/22:18:04	 	Column length validation completed
+2021-08-23/22:23:30	 	Column length validation completed
+2021-08-23/22:28:34	 	Column length validation completed
+2021-08-23/22:31:06	 	Column length validation completed
+2021-08-23/22:50:02	 	Column length validation completed
+2021-08-23/22:51:14	 	Column length validation completed
+2021-08-23/22:54:46	 	Column length validation completed
+2021-08-23/23:07:39	 	Column length validation completed
+2021-08-23/23:25:15	 	Column length validation completed
+2021-08-23/23:27:59	 	Column length validation completed
+2021-08-23/23:31:39	 	Column length validation completed
+2021-08-23/23:44:46	 	Column length validation completed
+2021-08-23/23:47:31	 	Column length validation completed
+2021-08-24/23:15:28	 	Invalid File Name!! File moved to Bad Raw Folder :: file_Training_batchs.csv
+2021-08-24/23:15:28	 	Column length validation completed
+2021-08-24/23:29:05	 	Invalid File Name!! File moved to Bad Raw Folder :: file_Training_batchs.csv
+2021-08-24/23:29:05	 	Column length validation completed
+2021-08-24/23:35:52	 	Invalid File Name!! File moved to Bad Raw Folder :: file_Training_batchs.csv
+2021-08-24/23:35:52	 	Column length validation completed
+2021-08-24/23:51:51	 	Column length validation completed
+2021-08-24/23:54:27	 	Column length validation completed
+2021-08-24/23:56:21	 	Column length validation completed
