@@ -63,7 +63,7 @@ The main goal is to predict the whether a product comes in backorder or not base
 # Deployment Links
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- AWS link : http://env-env.eba-wiqwkeue.us-east-2.elasticbeanstalk.com/
+ AWS link : http://ec2-3-19-57-130.us-east-2.compute.amazonaws.com:8080/
  
   # Conclusions
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
